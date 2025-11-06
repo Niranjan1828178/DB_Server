@@ -213,7 +213,8 @@
       "description": "Explore the city of love, visit the Eiffel Tower, and enjoy delicious pastries.",
       "price": 1200,
       "durationDays": 7,
-      "rating": 4.7
+      "rating": 4.7,
+      "category": "City Break"
     },
     {
       "id": 2,
@@ -223,7 +224,8 @@
       "description": "Experience the bustling city life, ancient temples, and vibrant culture of Tokyo.",
       "price": 2500,
       "durationDays": 10,
-      "rating": 4.8
+      "rating": 4.8,
+      "category": "City Break"
     },
     {
       "id": 3,
@@ -233,7 +235,8 @@
       "description": "Breathe in the fresh mountain air and hike through the stunning Swiss Alps.",
       "price": 1800,
       "durationDays": 6,
-      "rating": 4.9
+      "rating": 4.9,
+      "category": "Mountain"
     },
     {
       "id": 4,
@@ -243,7 +246,8 @@
       "description": "Relax on sandy beaches, surf the waves, and find your inner peace.",
       "price": 900,
       "durationDays": 8,
-      "rating": 4.6
+      "rating": 4.6,
+      "category": "Beach"
     },
     {
       "id": 5,
@@ -253,7 +257,8 @@
       "description": "The city that never sleeps. See Times Square, Central Park, and Broadway shows.",
       "price": 1500,
       "durationDays": 5,
-      "rating": 3.8
+      "rating": 4.5,
+      "category": "City Break"
     },
     {
       "id": 6,
@@ -263,7 +268,8 @@
       "description": "Walk through history at the Colosseum, Roman Forum, and Vatican City.",
       "price": 1300,
       "durationDays": 7,
-      "rating": 4.6
+      "rating": 4.6,
+      "category": "Historical"
     },
     {
       "id": 7,
@@ -273,7 +279,8 @@
       "description": "Experience the white-washed buildings, crystal-clear waters, and stunning sunsets of the Greek Islands.",
       "price": 2200,
       "durationDays": 10,
-      "rating": 4.8
+      "rating": 4.8,
+      "category": "Beach"
     },
     {
       "id": 8,
@@ -283,7 +290,8 @@
       "description": "Wander through vibrant souks, stay in traditional riads, and experience desert adventures.",
       "price": 1100,
       "durationDays": 8,
-      "rating": 4.4
+      "rating": 4.4,
+      "category": "Cultural"
     },
     {
       "id": 9,
@@ -293,7 +301,8 @@
       "description": "Discover the ancient landscapes, indigenous culture, and natural wonders of the Red Centre.",
       "price": 2800,
       "durationDays": 12,
-      "rating": 4.3
+      "rating": 4.3,
+      "category": "Adventure"
     },
     {
       "id": 10,
@@ -303,7 +312,8 @@
       "description": "Trek the legendary Inca Trail to the mystical citadel of Machu Picchu.",
       "price": 1900,
       "durationDays": 9,
-      "rating": 4.9
+      "rating": 4.9,
+      "category": "Adventure"
     },
     {
       "id": 11,
@@ -313,7 +323,8 @@
       "description": "Chase the Northern Lights and experience the magic of the Arctic Circle.",
       "price": 2400,
       "durationDays": 6,
-      "rating": 4.9
+      "rating": 4.9,
+      "category": "Nature"
     },
     {
       "id": 12,
@@ -323,7 +334,8 @@
       "description": "Witness the great migration and spot the Big Five in their natural habitat.",
       "price": 3500,
       "durationDays": 8,
-      "rating": 5
+      "rating": 5.0,
+      "category": "Wildlife"
     },
     {
       "id": 13,
@@ -333,7 +345,8 @@
       "description": "Explore ancient temples, cruise Ha Long Bay, and savor authentic Vietnamese cuisine.",
       "price": 1300,
       "durationDays": 11,
-      "rating": 4.7
+      "rating": 4.7,
+      "category": "Cultural"
     },
     {
       "id": 14,
@@ -343,7 +356,8 @@
       "description": "Drive through dramatic landscapes of waterfalls, glaciers, and volcanic beaches.",
       "price": 2700,
       "durationDays": 10,
-      "rating": 4.8
+      "rating": 4.8,
+      "category": "Nature"
     },
     {
       "id": 15,
@@ -353,7 +367,8 @@
       "description": "Stay in overwater bungalows and enjoy world-class snorkeling and diving.",
       "price": 4200,
       "durationDays": 7,
-      "rating": 4.9
+      "rating": 4.9,
+      "category": "Luxury"
     },
     {
       "id": 16,
@@ -363,7 +378,8 @@
       "description": "Experience modern luxury, desert safaris, and traditional Arabian culture.",
       "price": 3000,
       "durationDays": 6,
-      "rating": 4.2
+      "rating": 4.2,
+      "category": "Luxury"
     },
     {
       "id": 17,
@@ -373,7 +389,8 @@
       "description": "Walk ancient city walls, island hop in the Adriatic, and explore Game of Thrones filming locations.",
       "price": 1700,
       "durationDays": 9,
-      "rating": 4.6
+      "rating": 4.6,
+      "category": "Beach"
     },
     {
       "id": 18,
@@ -383,7 +400,8 @@
       "description": "Experience tropical beaches, limestone cliffs, and vibrant marine life.",
       "price": 1400,
       "durationDays": 12,
-      "rating": 4.5
+      "rating": 4.5,
+      "category": "Beach"
     },
     {
       "id": 19,
@@ -393,7 +411,8 @@
       "description": "Explore historic castles, misty mountains, and legendary lochs.",
       "price": 1900,
       "durationDays": 8,
-      "rating": 4.7
+      "rating": 4.7,
+      "category": "Mountain"
     },
     {
       "id": 20,
@@ -403,7 +422,8 @@
       "description": "Wine tasting, coastal drives, and Table Mountain adventures.",
       "price": 2200,
       "durationDays": 10,
-      "rating": 4.6
+      "rating": 4.6,
+      "category": "Food & Wine"
     },
     {
       "id": 21,
@@ -413,7 +433,8 @@
       "description": "Trek through stunning mountains, glaciers, and pristine wilderness.",
       "price": 3100,
       "durationDays": 11,
-      "rating": 4.9
+      "rating": 4.9,
+      "category": "Mountain"
     },
     {
       "id": 22,
@@ -423,7 +444,8 @@
       "description": "Visit ancient temples, traditional tea houses, and serene gardens.",
       "price": 2300,
       "durationDays": 8,
-      "rating": 4.8
+      "rating": 4.8,
+      "category": "Cultural"
     },
     {
       "id": 23,
@@ -433,7 +455,8 @@
       "description": "Drive along stunning coastlines, visit charming villages, and enjoy Italian cuisine.",
       "price": 2600,
       "durationDays": 7,
-      "rating": 4.7
+      "rating": 4.7,
+      "category": "Beach"
     },
     {
       "id": 24,
@@ -443,7 +466,8 @@
       "description": "Discover the ancient city of Petra, float in the Dead Sea, and camp in Wadi Rum.",
       "price": 1800,
       "durationDays": 9,
-      "rating": 4.8
+      "rating": 4.8,
+      "category": "Historical"
     },
     {
       "id": 25,
@@ -453,7 +477,8 @@
       "description": "Explore the world's largest rainforest and meet indigenous communities.",
       "price": 2900,
       "durationDays": 10,
-      "rating": 4.6
+      "rating": 4.6,
+      "category": "Wildlife"
     },
     {
       "id": 26,
@@ -463,7 +488,8 @@
       "description": "Explore Angkor Wat and ancient temple complexes at sunrise and sunset.",
       "price": 1200,
       "durationDays": 6,
-      "rating": 4.7
+      "rating": 4.7,
+      "category": "Historical"
     },
     {
       "id": 27,
@@ -473,7 +499,8 @@
       "description": "Experience Gaudi architecture, tapas culture, and Mediterranean beaches.",
       "price": 1700,
       "durationDays": 8,
-      "rating": 4.5
+      "rating": 4.5,
+      "category": "City Break"
     },
     {
       "id": 28,
@@ -483,7 +510,8 @@
       "description": "Explore the Grand Bazaar, ancient mosques, and cruise the Bosphorus.",
       "price": 1500,
       "durationDays": 7,
-      "rating": 4.4
+      "rating": 4.4,
+      "category": "Cultural"
     },
     {
       "id": 29,
@@ -493,7 +521,8 @@
       "description": "Discover turquoise lakes, snow-capped peaks, and abundant wildlife.",
       "price": 2400,
       "durationDays": 9,
-      "rating": 4.9
+      "rating": 4.9,
+      "category": "Mountain"
     },
     {
       "id": 30,
@@ -503,7 +532,8 @@
       "description": "Cruise on traditional houseboats, visit spice plantations, and relax on beaches.",
       "price": 1300,
       "durationDays": 10,
-      "rating": 4.8
+      "rating": 4.8,
+      "category": "Nature"
     },
     {
       "id": 31,
@@ -513,7 +543,8 @@
       "description": "Bungee jump, ski, and explore Lord of the Rings filming locations.",
       "price": 3200,
       "durationDays": 14,
-      "rating": 4
+      "rating": 4.9,
+      "category": "Adventure"
     },
     {
       "id": 32,
@@ -523,7 +554,8 @@
       "description": "Sound of Music tours, alpine hiking, and classical music heritage.",
       "price": 1800,
       "durationDays": 7,
-      "rating": 4.6
+      "rating": 4.6,
+      "category": "Mountain"
     },
     {
       "id": 33,
@@ -533,7 +565,8 @@
       "description": "Ancient ruins, cenotes, and pristine Caribbean beaches.",
       "price": 1600,
       "durationDays": 8,
-      "rating": 4.5
+      "rating": 4.5,
+      "category": "Beach"
     },
     {
       "id": 34,
@@ -543,7 +576,8 @@
       "description": "Stay in ice hotels, dog sledding, and northern lights viewing.",
       "price": 2800,
       "durationDays": 6,
-      "rating": 4.8
+      "rating": 4.8,
+      "category": "Adventure"
     },
     {
       "id": 35,
@@ -553,7 +587,8 @@
       "description": "Red sand dunes, stargazing, and desert wildlife encounters.",
       "price": 2700,
       "durationDays": 9,
-      "rating": 4.7
+      "rating": 4.7,
+      "category": "Desert"
     },
     {
       "id": 36,
@@ -563,7 +598,8 @@
       "description": "Castle stays, coastal drives, and traditional pub culture.",
       "price": 1700,
       "durationDays": 8,
-      "rating": 4.5
+      "rating": 4.5,
+      "category": "Cultural"
     },
     {
       "id": 37,
@@ -573,7 +609,8 @@
       "description": "Ancient temples, tea plantations, and elephant safaris.",
       "price": 1400,
       "durationDays": 11,
-      "rating": 4.6
+      "rating": 4.6,
+      "category": "Cultural"
     },
     {
       "id": 38,
@@ -583,7 +620,8 @@
       "description": "Wine tasting, Andes mountains, and traditional gaucho culture.",
       "price": 2100,
       "durationDays": 8,
-      "rating": 4.7
+      "rating": 4.7,
+      "category": "Food & Wine"
     },
     {
       "id": 39,
@@ -593,7 +631,8 @@
       "description": "Pyramids, Nile cruises, and ancient temple explorations.",
       "price": 1900,
       "durationDays": 10,
-      "rating": 4.6
+      "rating": 4.6,
+      "category": "Historical"
     },
     {
       "id": 40,
@@ -603,7 +642,8 @@
       "description": "Historic cities, blue lagoons, and Game of Thrones locations.",
       "price": 1500,
       "durationDays": 7,
-      "rating": 4.3
+      "rating": 4.3,
+      "category": "Historical"
     },
     {
       "id": 41,
@@ -613,7 +653,8 @@
       "description": "Sauna experiences, lake cottages, and midnight sun.",
       "price": 2200,
       "durationDays": 8,
-      "rating": 4.5
+      "rating": 4.5,
+      "category": "Nature"
     },
     {
       "id": 42,
@@ -623,7 +664,8 @@
       "description": "Unique wildlife, rainforests, and pristine beaches.",
       "price": 2600,
       "durationDays": 12,
-      "rating": 4.7
+      "rating": 4.7,
+      "category": "Wildlife"
     },
     {
       "id": 43,
@@ -633,7 +675,8 @@
       "description": "Buddhist monasteries, mountain treks, and cultural festivals.",
       "price": 3300,
       "durationDays": 9,
-      "rating": 4.9
+      "rating": 4.9,
+      "category": "Cultural"
     },
     {
       "id": 44,
@@ -643,7 +686,8 @@
       "description": "Alpine lakes, medieval castles, and cave exploring.",
       "price": 1600,
       "durationDays": 7,
-      "rating": 4.6
+      "rating": 4.6,
+      "category": "Nature"
     },
     {
       "id": 45,
@@ -653,7 +697,8 @@
       "description": "Rainforest zip-lining, volcano hikes, and beach relaxation.",
       "price": 1800,
       "durationDays": 10,
-      "rating": 4.7
+      "rating": 4.7,
+      "category": "Adventure"
     },
     {
       "id": 46,
@@ -663,7 +708,8 @@
       "description": "Medieval markets, salt mines, and historical sites.",
       "price": 1300,
       "durationDays": 6,
-      "rating": 4.4
+      "rating": 4.4,
+      "category": "Historical"
     },
     {
       "id": 47,
@@ -673,7 +719,8 @@
       "description": "Night markets, mountain hot springs, and temple hopping.",
       "price": 1700,
       "durationDays": 8,
-      "rating": 4.5
+      "rating": 4.5,
+      "category": "Cultural"
     },
     {
       "id": 48,
@@ -683,7 +730,8 @@
       "description": "Island hopping, dhow safaris, and pristine beaches.",
       "price": 2400,
       "durationDays": 9,
-      "rating": 4.6
+      "rating": 4.6,
+      "category": "Beach"
     },
     {
       "id": 49,
@@ -693,7 +741,8 @@
       "description": "Ancient wineries, mountain monasteries, and traditional feasts.",
       "price": 1400,
       "durationDays": 7,
-      "rating": 4.7
+      "rating": 4.7,
+      "category": "Food & Wine"
     },
     {
       "id": 50,
@@ -703,7 +752,8 @@
       "description": "Rila Monastery, mountain hiking, and thermal springs.",
       "price": 1200,
       "durationDays": 6,
-      "rating": 4.3
+      "rating": 4.3,
+      "category": "Mountain"
     },
     {
       "id": 51,
@@ -713,7 +763,8 @@
       "description": "Colonial towns, gaucho culture, and Atlantic beaches.",
       "price": 1900,
       "durationDays": 8,
-      "rating": 4.2
+      "rating": 4.2,
+      "category": "Beach"
     },
     {
       "id": 52,
@@ -723,7 +774,8 @@
       "description": "Buddhist temples, Mekong cruises, and night markets.",
       "price": 1300,
       "durationDays": 9,
-      "rating": 4.6
+      "rating": 4.6,
+      "category": "Cultural"
     },
     {
       "id": 53,
@@ -733,7 +785,8 @@
       "description": "Rock-hewn churches, coffee ceremonies, and ancient history.",
       "price": 1800,
       "durationDays": 10,
-      "rating": 4.5
+      "rating": 4.5,
+      "category": "Historical"
     },
     {
       "id": 54,
@@ -743,7 +796,8 @@
       "description": "Medieval castles, wine valleys, and European history.",
       "price": 1600,
       "durationDays": 5,
-      "rating": 4.1
+      "rating": 4.1,
+      "category": "Historical"
     },
     {
       "id": 55,
@@ -753,7 +807,8 @@
       "description": "Desert camping, ancient forts, and wadis exploration.",
       "price": 2200,
       "durationDays": 8,
-      "rating": 4.7
+      "rating": 4.7,
+      "category": "Desert"
     },
     {
       "id": 56,
@@ -763,7 +818,8 @@
       "description": "Mediterranean beaches, historic sites, and mountain villages.",
       "price": 1100,
       "durationDays": 7,
-      "rating": 4.4
+      "rating": 4.4,
+      "category": "Beach"
     },
     {
       "id": 57,
@@ -773,7 +829,8 @@
       "description": "Discover India's iconic Golden Triangle. Explore historic Delhi, marvel at the Taj Mahal, and experience the royal grandeur of Jaipur.",
       "price": 1500,
       "durationDays": 8,
-      "rating": 4.8
+      "rating": 4.8,
+      "category": "Historical"
     },
     {
       "id": 58,
@@ -783,7 +840,8 @@
       "description": "Ride camels through the golden sands of the Thar Desert, stay in a desert camp under the stars, and explore the magnificent Jaisalmer Fort.",
       "price": 1600,
       "durationDays": 7,
-      "rating": 4.7
+      "rating": 4.7,
+      "category": "Desert"
     },
     {
       "id": 59,
@@ -793,7 +851,8 @@
       "description": "Trek through breathtaking Himalayan landscapes, visit ancient monasteries, and experience the serene beauty of the Kullu Valley.",
       "price": 1800,
       "durationDays": 9,
-      "rating": 4.9
+      "rating": 4.9,
+      "category": "Mountain"
     },
     {
       "id": 60,
@@ -803,7 +862,8 @@
       "description": "Relax on sun-kissed beaches, enjoy vibrant nightlife, and savor delicious seafood in India's premier beach destination.",
       "price": 1100,
       "durationDays": 7,
-      "rating": 4.5
+      "rating": 4.5,
+      "category": "Beach"
     },
     {
       "id": 61,
@@ -813,7 +873,8 @@
       "description": "Witness ancient rituals on the banks of the sacred Ganges River, explore narrow alleyways, and experience the spiritual heart of India.",
       "price": 1000,
       "durationDays": 5,
-      "rating": 4.6
+      "rating": 4.6,
+      "category": "Cultural"
     },
     {
       "id": 62,
@@ -823,7 +884,8 @@
       "description": "Journey to the 'Land of High Passes'. Discover dramatic mountain scenery, serene lakes, and ancient Buddhist monasteries.",
       "price": 2500,
       "durationDays": 10,
-      "rating": 4.9
+      "rating": 4.9,
+      "category": "Adventure"
     },
     {
       "id": 63,
@@ -833,7 +895,8 @@
       "description": "Explore the magnificent and colorful temples of Tamil Nadu, witness ancient traditions, and immerse yourself in Dravidian culture.",
       "price": 1700,
       "durationDays": 9,
-      "rating": 4.7
+      "rating": 4.7,
+      "category": "Cultural"
     },
     {
       "id": 64,
@@ -843,7 +906,8 @@
       "description": "Find your balance with yoga in the Himalayas, and get your adrenaline pumping with white-water rafting on the Ganges.",
       "price": 1200,
       "durationDays": 6,
-      "rating": 4.6
+      "rating": 4.6,
+      "category": "Adventure"
     },
     {
       "id": 65,
@@ -853,7 +917,8 @@
       "description": "Experience the vibrant energy of Mumbai, from Bollywood glamour and historic landmarks to bustling markets and delicious street food.",
       "price": 1400,
       "durationDays": 5,
-      "rating": 4.5
+      "rating": 4.5,
+      "category": "City Break"
     },
     {
       "id": 66,
@@ -863,7 +928,8 @@
       "description": "Navigate the dense mangrove forests of the Sundarbans, the world's largest delta, in search of the elusive Royal Bengal Tiger.",
       "price": 2100,
       "durationDays": 6,
-      "rating": 4.8
+      "rating": 4.8,
+      "category": "Wildlife"
     }
   ]
 }
